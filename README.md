@@ -13,7 +13,7 @@ The model is written with Python 2.7. However, it is developed in such a way tha
 
 ### Contents
 
-[Here](./Part1_Base_run) the model, model products as well as a model-input flow duration curve are provided. 
+[Here](./models) the model, model products as well as a model-input flow duration curve are provided. 
 The model is implemented for the case of the Minnesota River near Jordan, MN, USA. 
 
 
